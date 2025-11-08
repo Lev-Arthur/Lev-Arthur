@@ -1,1 +1,1 @@
-undefined 
+gw pemula kontol
