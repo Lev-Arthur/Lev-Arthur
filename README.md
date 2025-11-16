@@ -1,1 +1,1 @@
-gw pemula kontol
+ap
