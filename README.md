@@ -1,3 +1,4 @@
+![](https://i.pinimg.com/originals/ff/a9/6e/ffa96ede4039820cdac1185df70b8dc7.gif)
 # 👋 Hello, I'm Arthur
 **A developer with a calm and thoughtful approach.**
 
