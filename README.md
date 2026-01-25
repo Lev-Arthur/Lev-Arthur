@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/3d/44/78/3d447868fc53a876701c313e869306fd.gif"  width="100%"/>
+  <img src="https://i.pinimg.com/originals/aa/8d/79/aa8d79b7d3d771867507c234e835b6b5.gif"  width="100%"/>
 </div>
 
 <h3 align="left">Contact me:</h3>
