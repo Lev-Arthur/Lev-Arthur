@@ -1,9 +1,11 @@
-<h1 align="center">Hi, I'm Arthur</h1>
+<h1 align="left">Hi, I'm Arthur</h1>
 
-<p align="left">A developer with a calm and thoughtful approach.</p>
+<div align="left">
+  <img src="./src/assets/icon/typewriter.gif" height="45" />
+</div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/3d/44/78/3d447868fc53a876701c313e869306fd.gif"  />
+  <img src="https://i.pinimg.com/originals/3d/44/78/3d447868fc53a876701c313e869306fd.gif"  width="100%"/>
 </div>
 
 <h3 align="left">Contact me:</h3>
@@ -48,10 +50,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lev-Arthur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="100%" alt="languages graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Lev-Arthur/Lev-Arthur/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/Lev-Arthur/Lev-Arthur/output/snake.svg" alt="Snake animation" />-->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lev-Arthur/Lev-Arthur/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lev-Arthur/Lev-Arthur/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lev-Arthur/Lev-Arthur/output/pacman-contribution-graph.svg">
-</picture>
+<!--<picture>-->
+<!--  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lev-Arthur/Lev-Arthur/output/pacman-contribution-graph-dark.svg">-->
+<!--  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lev-Arthur/Lev-Arthur/output/pacman-contribution-graph.svg">-->
+<!--  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lev-Arthur/Lev-Arthur/output/pacman-contribution-graph.svg">-->
+<!--</picture>-->
